@@ -11,3 +11,6 @@ Source: (https://github.com/biswadipmaity/AirbuildClient)[https://github.com/bis
 # Dockerfiles for setting up Windows/Linux docker containers
 Source: (https://github.com/klvnraju/platformio-vsts-agent-docker)[https://github.com/klvnraju/platformio-vsts-agent-docker]
 'Note: You can use VSTS hosted build agents as well'
+
+# Source code for the VSTS extension that we created
+Source: (https://github.com/klvnraju/platformio-toolset-vsts-extension)[https://github.com/klvnraju/platformio-toolset-vsts-extension]
